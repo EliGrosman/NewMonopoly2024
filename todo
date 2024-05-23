@@ -1,0 +1,4 @@
+3. trading
+4. test rent calculations for all properties
+Refactor:
+- Change player reference to owned properties to the objects instead of indices
